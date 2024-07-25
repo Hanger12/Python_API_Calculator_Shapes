@@ -10,7 +10,7 @@ setup(
     description='Библиотека для вычисления площади различных фигур',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='',
+    url='https://github.com/Hanger12/Python_API_Calculator_Shapes.git',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
